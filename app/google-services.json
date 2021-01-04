@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001670346057",
+    "project_id": "whatsappclone-be0ce",
+    "storage_bucket": "whatsappclone-be0ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001670346057:android:c1091b00f71fa9835c0698",
+        "android_client_info": {
+          "package_name": "com.examplefegohuncho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001670346057-i4nc6i8ujlii216oq9s1dhl3hr1t7hjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpVcMJ6V9ah3tlDruqzX-gxjy2almZAu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001670346057-i4nc6i8ujlii216oq9s1dhl3hr1t7hjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
